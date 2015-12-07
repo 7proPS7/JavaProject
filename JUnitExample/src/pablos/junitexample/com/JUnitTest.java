@@ -42,5 +42,8 @@ public class JUnitTest {
 	public int rectangle(int a, int b) {
 		return a * b;
 	}
+	public double triangle(int width,int height){
+		return width*height/2;
+	}
 
 }
